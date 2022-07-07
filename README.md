@@ -1,1 +1,1 @@
-# Jtechconfig
+.
